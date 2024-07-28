@@ -1,5 +1,12 @@
-pandas
+tensorflow
 numpy
+pandas
 scikit-learn
-openpyxl
+matplotlib
 seaborn
+gensim
+python-levenshtein
+openpyxl
+tensorflow_hub
+tensorflow_text
+tensorflow_model_optimization
